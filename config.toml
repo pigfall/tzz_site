@@ -1,0 +1,58 @@
+baseURL = 'http://tangbe.me/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = "anatole"
+
+summarylength = 10
+disqusShortname = "tangbe"
+
+[params]
+displayMode = "dark"
+favicon = "favicons/"
+title = "Halooo Tzz"
+author = "Tzz"
+description = "Finding Myself"
+profilePicture = "images/allen.jpg"
+fullPostContent = false
+readMore = true
+images = ["images/allen.jpg"]
+#mainSections = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "ins"
+url = "https://www.instagram.com/tangzhongchai/"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:koi_town@outlook.com"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "github"
+url = "https://github.com/pigfall"
+
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "youtube"
+url = "https://www.youtube.com/channel/UCbs0aRXNZZuDZ_IjhMTrQUA"
