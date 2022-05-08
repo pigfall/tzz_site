@@ -11,7 +11,7 @@ displayMode = "dark"
 favicon = "favicons/"
 title = "< Tangbe />"
 author = "Tzz"
-description = "Finding Myself"
+description = "Cherish the present and grasp the future"
 profilePicture = "images/allen.jpg"
 fullPostContent = false
 readMore = true
@@ -36,11 +36,11 @@ images = ["images/allen.jpg"]
   identifier = "posts"
   url = "/posts/"
 
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "ins"
-url = "https://www.instagram.com/tangzhongchai/"
-
+#[[params.socialIcons]]
+#icon = "fab fa-instagram"
+#title = "ins"
+#url = "https://www.instagram.com/tangzhongchai/"
+#
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
