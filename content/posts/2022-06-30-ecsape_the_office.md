@@ -4,10 +4,11 @@ date: 2022-07-01T00:03:03+09:00
 draft: false
 ---
 
-# I Resigned
+I resigned. 
+
 Actually, i am satisfied with the company. I am  lucky to meet these friendly colleagues and it's my pleasure to work with them.
 
-But after 5 years of working, i relaized that my body and thought can't sit at office for 8 hours any more.
+But after 5 years of working, i realized that my body and thought can't sit at office for 8 hours any more.
 
 You have to waste time in traffic.
 
