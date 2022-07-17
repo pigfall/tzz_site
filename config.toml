@@ -57,6 +57,11 @@ icon = "fab fa-youtube"
 title = "youtube"
 url = "https://www.youtube.com/channel/UCbs0aRXNZZuDZ_IjhMTrQUA"
 
+[[params.socialIcons]]
+icon = "fab fa-bilibili"
+title = "bilibili"
+url = "https://space.bilibili.com/48949083"
+
 #[[params.socialIcons]]
 #icon = "fab fa-weibo"
 #title = "weibo"
